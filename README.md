@@ -1,5 +1,4 @@
-# Webstore App
-
+Webstore App
 This is a full-stack web application built with React, Bootstrap, MERN (MongoDB, Express, React, Node), PayPal API, JWT (JSON Web Tokens), and QR code.
 
 Features
